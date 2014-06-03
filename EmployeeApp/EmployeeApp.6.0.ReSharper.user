@@ -1,0 +1,197 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:UI/f:DepartmentEntryUI.Designer.cs" caret="4159" fromTop="13" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:UI/f:EmployeeEntryUI.Designer.cs" caret="0" fromTop="0" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:UI/f:MainUI.Designer.cs" caret="0" fromTop="0" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:UI/f:MainUI.cs" caret="63" fromTop="3" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/f:Program.cs" caret="99" fromTop="4" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/f:App.config" caret="328" fromTop="5" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:Model/f:Department.cs" caret="94" fromTop="4" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:Model/f:Employee.cs" caret="139" fromTop="7" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:Manager/f:EmployeeManager.cs" caret="332" fromTop="11" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:DepartmentGateway.cs" caret="1018" fromTop="21" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:Manager/f:DepartmentManager.cs" caret="868" fromTop="13" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:UI/f:DepartmentEntryUI.cs" caret="719" fromTop="9" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:EmployeeGateWay.cs" caret="1118" fromTop="14" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:UI/f:EmployeeEntryUI.cs" caret="804" fromTop="4" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:DepartmentGateway.cs" caret="1161" fromTop="19" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:Manager/f:DepartmentManager.cs" caret="290" fromTop="11" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:Manager/f:DepartmentManager.cs" caret="685" fromTop="24" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:Manager/f:DepartmentManager.cs" caret="402" fromTop="12" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:DepartmentGateway.cs" caret="1424" fromTop="8" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:DepartmentGateway.cs" caret="1424" fromTop="8" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:DepartmentGateway.cs" caret="1748" fromTop="8" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:DepartmentGateway.cs" caret="297" fromTop="9" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/f:App.config" caret="286" fromTop="3" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:DepartmentGateway.cs" caret="491" fromTop="3" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:UI/f:EmployeeEntryUI.cs" caret="489" fromTop="11" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:UI/f:EmployeeEntryUI.cs" caret="621" fromTop="15" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:Manager/f:DepartmentManager.cs" caret="851" fromTop="12" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:DepartmentGateway.cs" caret="1987" fromTop="4" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:DepartmentGateway.cs" caret="2702" fromTop="17" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:DepartmentGateway.cs" caret="2788" fromTop="21" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:Model/f:Department.cs" caret="94" fromTop="4" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:DepartmentGateway.cs" caret="2506" fromTop="14" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:UI/f:EmployeeEntryUI.cs" caret="357" fromTop="5" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:Model/f:Employee.cs" caret="375" fromTop="13" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:Model/f:Employee.cs" caret="139" fromTop="7" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:UI/f:EmployeeEntryUI.cs" caret="1102" fromTop="20" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:Manager/f:EmployeeManager.cs" caret="76" fromTop="0" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:UI/f:EmployeeEntryUI.cs" caret="1273" fromTop="10" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:Manager/f:EmployeeManager.cs" caret="343" fromTop="13" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:EmployeeGateWay.cs" caret="106" fromTop="0" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:Manager/f:EmployeeManager.cs" caret="343" fromTop="10" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:EmployeeGateWay.cs" caret="325" fromTop="12" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:EmployeeGateWay.cs" caret="795" fromTop="7" />
+      <File id="4E6CCF94-2DEE-4F35-824A-C7F2ECA5FA95/d:DataAccess/f:EmployeeGateWay.cs" caret="1100" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="string" priority="351" />
+      <Item value="sqlConnection" priority="155" />
+      <Item value="new" priority="319" />
+      <Item value="SqlConnection" priority="28" />
+      <Item value="connectionString" priority="63" />
+      <Item value="SqlCommand`0" priority="31" />
+      <Item value="sqlCommand" priority="96" />
+      <Item value="SqlCommand" priority="28" />
+      <Item value="query" priority="31" />
+      <Item value="nameTextBox" priority="90" />
+      <Item value="codeTextBox" priority="58" />
+      <Item value="name" priority="63" />
+      <Item value="code" priority="31" />
+      <Item value="MessageBox`0" priority="90" />
+      <Item value="DepartmentEntryUI`0" priority="31" />
+      <Item value="aDepartmentEntryUi" priority="64" />
+      <Item value="DepartmentEntryUI" priority="28" />
+      <Item value="EmployeeEntryUI`0" priority="31" />
+      <Item value="aEmployeeEntryUi" priority="64" />
+      <Item value="EmployeeEntryUI" priority="28" />
+      <Item value="if" priority="127" />
+      <Item value="return" priority="159" />
+      <Item value="public" priority="319" />
+      <Item value="aDepartment" priority="526" />
+      <Item value="Department" priority="55" />
+      <Item value="Name" priority="58" />
+      <Item value="aDeptManager" priority="26" />
+      <Item value="aDepartmentGateway" priority="128" />
+      <Item value="DepartmentGateway" priority="28" />
+      <Item value="else" priority="31" />
+      <Item value="Department`0" priority="126" />
+      <Item value="sqlDataReader" priority="159" />
+      <Item value="DepartmentGateway`0" priority="31" />
+      <Item value="null" priority="31" />
+      <Item value="departmentComboBox" priority="127" />
+      <Item value="aDepartmentManager" priority="64" />
+      <Item value="decimal" priority="28" />
+      <Item value="DepartmentManager" priority="29" />
+      <Item value="List" priority="62" />
+      <Item value="while" priority="31" />
+      <Item value="departments" priority="96" />
+      <Item value="List&lt;Department&gt;" priority="28" />
+      <Item value="int" priority="63" />
+      <Item value="Convert`0" priority="31" />
+      <Item value="DateTime`0" priority="31" />
+      <Item value="Employee" priority="28" />
+      <Item value="anEmployee" priority="191" />
+      <Item value="emailTextBox" priority="31" />
+      <Item value="contactTextBox" priority="31" />
+      <Item value="joiningDateDateTimePicker" priority="31" />
+      <Item value="EmployeeManager" priority="28" />
+      <Item value="anEmployeeManager" priority="26" />
+      <Item value="msg" priority="31" />
+      <Item value="anEmployeeGateway" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="Open`0" priority="26" />
+      <Item value="Close`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="ExecuteNonQuery`0" priority="26" />
+      <Item value="ExecuteReader`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="180" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EmployeeApp.DepartmentEntryUI">
+      <Item value="Show`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EmployeeApp.EmployeeEntryUI">
+      <Item value="Show`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EmployeeApp.Manager.DepartmentManager">
+      <Item value="Save`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EmployeeApp.DataAccess.DepartmentGateway">
+      <Item value="Save`0" priority="26" />
+      <Item value="Get`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EmployeeApp.Model.Department">
+      <Item value="Name" priority="80" />
+      <Item value="Code" priority="80" />
+      <Item value="Id" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataReader">
+      <Item value="Read`0" priority="26" />
+      <Item value="HasRows" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="ConnectionStrings" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.ConnectionStringSettings">
+      <Item value="ConnectionString" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="DataSource" priority="26" />
+      <Item value="DisplayMember" priority="26" />
+      <Item value="ValueMember" priority="26" />
+      <Item value="SelectedValue" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EmployeeApp.Model.Employee">
+      <Item value="Name" priority="26" />
+      <Item value="Email" priority="26" />
+      <Item value="Contact" priority="49" />
+      <Item value="JoiningDate" priority="26" />
+      <Item value="DepartmentId" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DateTimePicker">
+      <Item value="Value" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.6\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
